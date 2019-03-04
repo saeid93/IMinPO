@@ -1,0 +1,6 @@
+Name: ca-HepTh
+Type: Undirected
+Nodes: 9877
+Edges: 25998
+discription: Collaboration network of Arxiv High Energy Physics Theory
+
